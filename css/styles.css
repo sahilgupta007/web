@@ -1,0 +1,100 @@
+body{
+  text-align: center;
+}
+h1{
+  font-size: 75px;
+  margin: 0 auto 0 auto;
+  font-family:  Pacifico;
+  padding-top: 80px;
+  color: #0f4c75;
+}
+a{
+  color: #EAF6F6;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  text-decoration: none;
+  margin: 10px 20px;
+  width: 2rem
+}
+a:hover{
+  color: #0f4c75;
+}
+h2{
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.5rem;
+  color: #0f4c75;
+
+}
+h3{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: #0f4c75;
+}
+.yo{
+  color: #0f4c75;
+}
+.middle-container{
+}
+.bottom-container{
+  color: #0f4c75;
+}
+.per{
+  font-style: italic;
+  font-style: oblique;
+}
+.skill-row{
+  width: 50%;
+  line-height: 2;
+  text-align: left;
+  margin: 100px auto 100px auto;
+}
+.idea{
+  float: left;
+  margin-right: 30px;
+}
+.netflix{
+  float: right;
+}
+p{
+  font-family: 'Grandstander', cursive;
+}
+.hello{
+  color: #ddf3f5;
+  font-size: 0.75rem;
+}
+.btn {
+  background: #fa7d09;
+  background-image: -webkit-linear-gradient(top, #fa7d09, #00000);
+  background-image: -moz-linear-gradient(top, #fa7d09, #00000);
+  background-image: -ms-linear-gradient(top, #fa7d09, #00000);
+  background-image: -o-linear-gradient(top, #fa7d09, #00000);
+  background-image: linear-gradient(to bottom, #fa7d09, #00000);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  -webkit-box-shadow: 0px 0px 3px #666666;
+  -moz-box-shadow: 0px 0px 3px #666666;
+  box-shadow: 0px 0px 3px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 11px 20px;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ff4301;
+  background-image: -webkit-linear-gradient(top, #ff4301, #00000);
+  background-image: -moz-linear-gradient(top, #ff4301, #00000);
+  background-image: -ms-linear-gradient(top, #ff4301, #00000);
+  background-image: -o-linear-gradient(top, #ff4301, #00000);
+  background-image: linear-gradient(to bottom, #ff4301, #00000);
+  text-decoration: none;
+}
+.contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+
+}
+.hey{
+  color:#ddf3f5;
+}
